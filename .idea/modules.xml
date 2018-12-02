@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/SK_Scraping.iml" filepath="$PROJECT_DIR$/.idea/SK_Scraping.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Scraping.iml" filepath="$PROJECT_DIR$/.idea/Scraping.iml" />
     </modules>
   </component>
