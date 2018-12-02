@@ -10,7 +10,7 @@ import os
 
 filename = inspect.getframeinfo(inspect.currentframe()).filename
 file_path = os.path.dirname(os.path.abspath(filename))
-token = "EAACXp46VJZBgBAEVQDdhn4ZCFyhkHMF2bV9Bz9U4YwmaoD4Rhv1Qgd1lXHeMZCxkW0TT8XEpQ2ZAI8dGI5dfreZBhoAnk9BRFnUF7GaHLYSUJA8FKBobS6UOeBD76UNwINqHdLKI2ghJYl98KTJtZB0GzQw9cGk7UZD"
+token = "<insert access token>"
 post_id = "1049379735171791_1578479555595137"
 
 
